@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <header>MyList</header>
-      <div>
+      <div className="list-style">
         <ul>
           {/* <ListItem todo="Make the list"/>
           <ListItem todo="Make another list"/> */}

@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  text-align: center ;
+  font-size: 3rem;
+  width: 100%;
+  background: grey;
+}
+
+.list-style {
+  text-align: center;
+  font-size: 2rem;
+}
+li:nth-child(1) {
+  color: white;
+  background-color: salmon;
+
+}
+
+li:nth-child(2) {
+  color: white;
+  background-color: rgb(81, 179, 218);
+
+}
+
+li:nth-child(3) {
+  color: white;
+  background-color: rgb(79, 161, 47);
+
+}
+
+ul {
+  list-style-type: none;
+}
